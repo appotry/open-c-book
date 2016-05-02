@@ -11,11 +11,11 @@
     "links": {
         "sidebar": {
             "泰晓科技": "http://www.tinylab.org",
-            "开源小店": "http://weidian.com/?userid=335178200",
             "项目首页": "http://www.tinylab.org/open-c-book",
             "嵌入式 Linux 知识库": "http://tinylab.gitbooks.io/elinux",
             "Linux 内核文档": "http://tinylab.gitbooks.io/linux-doc",
-            "Shell 编程范例": "http://tinylab.gitbooks.io/shellbook"
+            "Shell 编程范例": "http://tinylab.gitbooks.io/shellbook",
+            "山谷人家 ☜ 生活不止眼前的 Bug……": "http://weidian.com/?userid=317479118"
         }
     },
     "title": "C 语言编程透视"

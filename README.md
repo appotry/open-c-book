@@ -3,6 +3,12 @@
 > 关注我们：[扫描二维码](#follow) 关注 [@泰晓科技](http://weibo.com/tinylaborg) 微博和微信公众号<br>
 > 赞助我们：[赞助 6.88￥](#donate), [更多原创开源书籍](#more)需要您的支持 ^o^ <br>
 
+<!-- 广告开始 -->
+
+<div style="color:#c0c; padding: 10px; border: 1px solid #c00; border-radius: 5px; height: 172px;"><div style="width: 70%; float: left; padding: 15px; line-height: 30px; font-size: 120%;">生活不止眼前的 Bug，还有诗和远方的茶园。<br>微信扫码，点一杯佳茗，品味千年的味道 ☞ <br> 那清香袅袅，来自作者的老家，<br>也源自北宋诗人黄庭坚的故乡！</div><div style="float: right; overflow: hidden; "> <a href="http://weidian.com/?userid=317479118" title="山谷人家 —— 源自黄庭坚故乡的味道，穿越千年，清香依旧！"><img style="width:150px;" src="pic/mommy-tea.png"/></a></div></div>
+<div style="text-align: center; padding: 2px; margin-top:5px;font-size:90%;color:#00f;">如果您觉得本书很赞，可以考虑点一杯红茶/绿茶，或者推荐给您喜欢品茶的朋友！微店为作者开设，敬请支持！</div>
+
+<!-- 广告结束 -->
 
 # C 语言编程透视
 
